@@ -1,0 +1,1 @@
+Crie uma classe para manter os dados de um aluno. Devem ser mantidos os seguintes dados: matrícula, nome, endereço, ano de ingresso, semestre de ingresso. Exemplifique o uso da classe.

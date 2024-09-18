@@ -1,0 +1,1 @@
+Crie uma classe que mantenha os dados de um curso de graduação. São necessários os seguintes dados: sigla, nome, turno, ingressantes por ano.

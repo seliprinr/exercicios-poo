@@ -1,0 +1,1 @@
+Crie uma classe para manter os dados de um professor. Devem ser mantidos os seguintes dados: matrícula, nome, endereço, titulação, área de atuação. Exemplifique o uso da classe.
